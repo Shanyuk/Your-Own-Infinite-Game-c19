@@ -1,1 +1,2 @@
-# Your-Own-Infinite-Game-c19
+# C37-CAMERA.x
+Modified Trex Game to use camera.x as trex.x
